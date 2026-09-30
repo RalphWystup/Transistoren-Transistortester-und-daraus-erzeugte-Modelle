@@ -1,0 +1,70 @@
+==========================================================================
+B4-BRUECKE MIT BELASTETEM RC-GLIED
+Drei Verfahren im Zusammenspiel:
+  1  KNOTENPOTENTIALVERFAHREN  stellt die Gleichungen auf
+     (um den Quellzweig erweitert, damit Ri = 0 zulaessig ist)
+  2  NEWTON-RAPHSON            loest das nichtlineare System
+  3  EXPLIZITER EULER          loest das nichtlineare DGL-System
+==========================================================================
+
+Schaltung   U = 30.0 V, f = 50 Hz, Ri = 1.000 Ohm
+            R = 10.0 Ohm, C = 1000 uF, R_L = 100.0 Ohm
+Dioden      Shockley, IS = 2.520e-09 A, n = 1.752, VT = 0.025852 V
+            n*VT = 45.293 mV, keine Naeherung
+Numerik     dt = 10.0 us, 200 ms, GMIN = 1e-09 S
+
+--------------------------------------------------------------------------
+A  DIE JACOBI-MATRIX GEGEN DEN DIFFERENZENQUOTIENTEN
+--------------------------------------------------------------------------
+   Arbeitspunkt                        Abweichung  Symmetrie  Kondition
+   Leitfall, groesster Diodenstrom (t=184.8 ms)  1.173e-08  0.000e+00  7.68e+01
+   Sperrfall, kein Strom durch R (t=182.4 ms)  1.169e-08  0.000e+00  2.91e+06
+   steilste Flanke des Stroms (t=182.8 ms)  1.175e-08  0.000e+00  1.42e+01
+   Von Hand abgeleitet und numerisch bestaetigt.
+
+--------------------------------------------------------------------------
+B  DER LAUF
+--------------------------------------------------------------------------
+   Newton-Schritte je Zeitschritt: im Mittel 3.94, groesste 6
+   Knotensatz nachgerechnet: groesster Rest 1.439e-13 A
+
+--------------------------------------------------------------------------
+C  ERGEBNIS IM EINGESCHWUNGENEN ZUSTAND (letzte Periode)
+--------------------------------------------------------------------------
+   Kondensatorspannung  Mittelwert   20.7661 V
+                        groesste     21.3597 V
+                        kleinste     20.1696 V
+                        Brummspannung 1.1901 V (5.73 %)
+   Laststrom            Mittelwert  207.6613 mA
+   Diodenstrom D1       Spitze      676.9201 mA
+   Quellstrom           Spitze      676.9201 mA
+   Scheitelwert der Quelle           30.0000 V
+   Verlust bis zum Kondensator        8.6403 V
+
+--------------------------------------------------------------------------
+D  LEISTUNGSBILANZ ueber die letzte Periode
+--------------------------------------------------------------------------
+   Quelle gibt ab               5.9031 W
+   davon Innenwiderstand        0.1117 W
+        vier Dioden             0.3597 W
+        Vorwiderstand R         1.1173 W
+        Last R_L                4.3138 W
+        Kondensator (netto)     0.0030 W
+   Rest                      -2.492e-03 W  (4.22e-04 vom Umsatz)
+
+--------------------------------------------------------------------------
+E  SCHRITTWEITENSTUDIE (expliziter Euler, erste Ordnung)
+--------------------------------------------------------------------------
+   Bezug: dt = 0,25 us  ->  u_C(200 ms) = 20.733728 V
+     dt [us]   u_C [V]     Fehler [V]   Verhaeltnis
+       40.00  20.741617    7.889e-03   
+       20.00  20.737645    3.917e-03   2.01
+       10.00  20.735661    1.933e-03   2.03
+        5.00  20.734670    9.417e-04   2.05
+        2.50  20.734174    4.460e-04   2.11
+   Das Verhaeltnis geht gegen 2: der Fehler halbiert sich mit
+   der Schrittweite, wie es fuer ein Verfahren erster Ordnung sein
+   muss. Damit ist die Ordnung am Ergebnis nachgewiesen.
+
+   Bilder geschrieben: Bruecke_RC_Verlauf.png, Bruecke_RC_Welligkeit.png
+==========================================================================

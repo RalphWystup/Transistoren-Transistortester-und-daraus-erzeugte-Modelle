@@ -1,0 +1,1229 @@
+{
+ "fassung": "2.2",
+ "datei": "Transistortechnik_2.2.html",
+ "groesse_byte": 3016813,
+ "gepruefte_kriterien": 244,
+ "fehler": 0,
+ "befunde": [
+  {
+   "gut": true,
+   "text": "alle Reiter ohne Ausnahme aufgebaut",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Konsolenfehler: 0 (Schranke 0)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Reiter: 16 (Soll 16 = Start + 14 Teilmanuskripte + 1 eigener)",
+   "zahl": 16
+  },
+  {
+   "gut": true,
+   "text": "der eigene Reiter „Netzliste und Löser“ ist vorhanden",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Abschnitte: 16 (Soll 16)",
+   "zahl": 16
+  },
+  {
+   "gut": true,
+   "text": "Diodenkennlinie: 437 von 437 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Leuchtdiode: 308 von 308 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "BJT und SPICE: 399 von 399 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Extraktion BC547: 436 von 436 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Arbeitspunkt von Hand: 385 von 385 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Minimaler Datensatz: 272 von 272 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Der Transistortester: Quelltext mit 294 Zeilen vollständig gezeigt (Schranke 250)",
+   "zahl": 294
+  },
+  {
+   "gut": true,
+   "text": "Gummel-Poon: 443 von 443 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Parameterextraktion: 447 von 447 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Arbeitspunkt Newton: 517 von 517 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Simulation und SPICE: 500 von 500 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Kleinsignal und h-Parameter: 418 von 418 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Vierpol-Verstärker: 500 von 500 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Messvorschrift: 206 von 206 Stichwörtern wiedergefunden (100.00 %, Schranke 100 %)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fließtext aller Teilmanuskripte auf der Seite, Wortzahl: 26075",
+   "zahl": 26075
+  },
+  {
+   "gut": true,
+   "text": "kein Verweis auf ein Gesamtmanuskript",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "R_B: Seite 37.275391 · Python 37.3 · Abstand 2.46e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.024608999999998105
+  },
+  {
+   "gut": true,
+   "text": "V_BE: Seite 752.16552 · Python 752.2 · Abstand 3.45e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.034480000000030486
+  },
+  {
+   "gut": true,
+   "text": "V_BE,eff: Seite 742.40795 · Python 742.4 · Abstand 7.95e-3 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.00795000000005075
+  },
+  {
+   "gut": true,
+   "text": "V_CE: Seite 12.491101 · Python 12.491 · Abstand 1.01e-4 (Schranke 5.00e-4 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0001010000000007949
+  },
+  {
+   "gut": true,
+   "text": "I_B: Seite 650.50517 · Python 650.5 · Abstand 5.17e-3 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.005170000000020991
+  },
+  {
+   "gut": true,
+   "text": "I_C: Seite 125.08899 · Python 125.09 · Abstand 1.01e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.001010000000007949
+  },
+  {
+   "gut": true,
+   "text": "β_eff: Seite 181.1223 · Python 181.1 · Abstand 2.23e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.02230000000000132
+  },
+  {
+   "gut": true,
+   "text": "Abweichung Seite ↔ mitgeliefertem Programmwert höchstens 0.0e+0 (Schranke 1e-12)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Newton-Schritte bis ‖F‖ < 10⁻¹⁰: 49 (Soll 49)",
+   "zahl": 49
+  },
+  {
+   "gut": true,
+   "text": "‖F‖ am Ende 4.81e-11 (Schranke 1e-10)",
+   "zahl": 4.812e-11
+  },
+  {
+   "gut": true,
+   "text": "Bisektionsschritte: 10 (Soll 10)",
+   "zahl": 10
+  },
+  {
+   "gut": true,
+   "text": "V_BE: Seite 657.9987 · Python 658.0 · Abstand 1.30e-3 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0013000000000147338
+  },
+  {
+   "gut": true,
+   "text": "I_B: Seite 18.58353 · Python 18.58 · Abstand 3.53e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0035300000000013654
+  },
+  {
+   "gut": true,
+   "text": "h11e: Seite 1453 · Python 1452.7 · Abstand 3.00e-1 (Schranke 5.00e-1 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.2999999999999545
+  },
+  {
+   "gut": true,
+   "text": "h21e: Seite 279.841 · Python 279.8 · Abstand 4.10e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.04099999999999682
+  },
+  {
+   "gut": true,
+   "text": "h22e: Seite 33.02 · Python 33.02 · Abstand 0.00e+0 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "h12e: Seite -4.9941e-7 · Python -4.99e-07 · Abstand 4.10e-10 (Schranke 5.00e-7 = halbe letzte gedruckte Stelle)",
+   "zahl": 4.0999999999998845e-10
+  },
+  {
+   "gut": true,
+   "text": "R_B: Seite 510 · Python 510 · Abstand 0.00e+0 (Schranke 5.00e-1 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "V_BE: Seite 669.2611 · Python 669.3 · Abstand 3.89e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.03889999999989868
+  },
+  {
+   "gut": true,
+   "text": "V_CE: Seite 7.172565 · Python 7.17 · Abstand 2.56e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0025649999999997064
+  },
+  {
+   "gut": true,
+   "text": "I_B: Seite 28.09949 · Python 28.10 · Abstand 5.10e-4 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0005100000000020088
+  },
+  {
+   "gut": true,
+   "text": "I_C: Seite 7.827435 · Python 7.83 · Abstand 2.56e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0025649999999997064
+  },
+  {
+   "gut": true,
+   "text": "h11e: Seite 979.5 · Python 979.5 · Abstand 0.00e+0 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "h21e: Seite 295.383 · Python 295.4 · Abstand 1.70e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.016999999999995907
+  },
+  {
+   "gut": true,
+   "text": "h22e: Seite 50.87 · Python 50.87 · Abstand 0.00e+0 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "r_ein: Seite 977.8 · Python 0.978 · Abstand 2.00e-1 (Schranke 5.00e-1 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.20000000000004547
+  },
+  {
+   "gut": true,
+   "text": "r_aus: Seite 951.5 · Python 0.951 · Abstand 5.00e-1 (Schranke 5.00e-1 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.5
+  },
+  {
+   "gut": true,
+   "text": "A_v: Seite -261.986 · Python -262.0 · Abstand 1.40e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.014000000000010004
+  },
+  {
+   "gut": true,
+   "text": "A_i: Seite -25.6167 · Python -25.6 · Abstand 1.67e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.01670000000000016
+  },
+  {
+   "gut": true,
+   "text": "A_vs: Seite -129.522 · Python -129.5 · Abstand 2.20e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.02199999999999136
+  },
+  {
+   "gut": true,
+   "text": "R_B: Seite 2054.6875 · Python 2054.69 · Abstand 2.50e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0025000000000545697
+  },
+  {
+   "gut": true,
+   "text": "V_BE: Seite 0.64575387 · Python 0.64575 · Abstand 3.87e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000003869999999905893
+  },
+  {
+   "gut": true,
+   "text": "V_CE: Seite 7.4906023 · Python 7.4906 · Abstand 2.30e-6 (Schranke 5.00e-5 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000023000000002326715
+  },
+  {
+   "gut": true,
+   "text": "I_B: Seite 6.986097 · Python 6.98610 · Abstand 3.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000003000000000419334
+  },
+  {
+   "gut": true,
+   "text": "abgebrochene Newton-Läufe: Seite 5 · Python 5",
+   "zahl": 5
+  },
+  {
+   "gut": true,
+   "text": "R_B: Seite 44453.125 · Python 44453.12 · Abstand 5.00e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.004999999997380655
+  },
+  {
+   "gut": true,
+   "text": "V_BE: Seite 0.71686611 · Python 0.71687 · Abstand 3.89e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000003890000000006388
+  },
+  {
+   "gut": true,
+   "text": "V_CE: Seite 12.688473 · Python 12.68847 · Abstand 3.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000029999999995311555
+  },
+  {
+   "gut": true,
+   "text": "I_B: Seite 0.54626382 · Python 0.546264 · Abstand 1.80e-7 (Schranke 5.00e-7 = halbe letzte gedruckte Stelle)",
+   "zahl": 1.8000000001627825e-7
+  },
+  {
+   "gut": true,
+   "text": "I_C: Seite 123.11527 · Python 123.115271 · Abstand 1.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000010000000116860974
+  },
+  {
+   "gut": true,
+   "text": "zwei unabhängige Wege: R_B = 44453.12 Ω gegen R2 = 44453 Ω im LTspice-Schaltplan Eigen_RW_1d.asc",
+   "zahl": 44453.12
+  },
+  {
+   "gut": true,
+   "text": "einfach V_BE / V Buch: Seite 0.71686618 · Python 0.71687 · Abstand 3.82e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000003819999999987722
+  },
+  {
+   "gut": true,
+   "text": "einfach V_BE / V SPICE: Seite 0.71696317 · Python 0.71696 · Abstand 3.17e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000031699999999412753
+  },
+  {
+   "gut": true,
+   "text": "einfach V_CE / V Buch: Seite 12.688442 · Python 12.68844 · Abstand 2.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000002000000000279556
+  },
+  {
+   "gut": true,
+   "text": "einfach V_CE / V SPICE: Seite 12.759101 · Python 12.75910 · Abstand 1.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 9.999999992515995e-7
+  },
+  {
+   "gut": true,
+   "text": "einfach I_B / mA Buch: Seite 0.54626535 · Python 0.54627 · Abstand 4.65e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000004650000000050447
+  },
+  {
+   "gut": true,
+   "text": "einfach I_B / mA SPICE: Seite 0.54626317 · Python 0.54626 · Abstand 3.17e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000031700000000522977
+  },
+  {
+   "gut": true,
+   "text": "einfach I_C / mA Buch: Seite 123.11558 · Python 123.11558 · Abstand 0.00e+0 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "einfach I_C / mA SPICE: Seite 122.40899 · Python 122.40899 · Abstand 0.00e+0 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "erweitert V_BE / V Buch: Seite 0.72389215 · Python 0.72389 · Abstand 2.15e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000002149999999923047
+  },
+  {
+   "gut": true,
+   "text": "erweitert V_BE / V SPICE: Seite 0.72843679 · Python 0.72844 · Abstand 3.21e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000032100000000312434
+  },
+  {
+   "gut": true,
+   "text": "erweitert V_CE / V Buch: Seite 12.503322 · Python 12.50332 · Abstand 2.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000002000000000279556
+  },
+  {
+   "gut": true,
+   "text": "erweitert V_CE / V SPICE: Seite 12.879383 · Python 12.87938 · Abstand 3.00e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000030000000013075123
+  },
+  {
+   "gut": true,
+   "text": "erweitert I_B / mA Buch: Seite 0.65974856 · Python 0.65975 · Abstand 1.44e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0000014399999999081814
+  },
+  {
+   "gut": true,
+   "text": "erweitert I_B / mA SPICE: Seite 0.65962505 · Python 0.65963 · Abstand 4.95e-6 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.000004950000000003563
+  },
+  {
+   "gut": true,
+   "text": "erweitert I_C / mA Buch: Seite 124.96678 · Python 124.96678 · Abstand 0.00e+0 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "erweitert I_C / mA SPICE: Seite 121.20617 · Python 121.20617 · Abstand 0.00e+0 (Schranke 5.00e-6 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "V_d: Seite 3.0388522 · Python 3.0389 · Abstand 4.78e-5 (Schranke 5.00e-5 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.00004779999999993123
+  },
+  {
+   "gut": true,
+   "text": "I_d: Seite 19.611478 · Python 19.611 · Abstand 4.78e-4 (Schranke 5.00e-4 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.00047800000000108867
+  },
+  {
+   "gut": true,
+   "text": "Newton-Schritte der Leuchtdiode: 3 (Soll 3)",
+   "zahl": 3
+  },
+  {
+   "gut": true,
+   "text": "I_C: Seite 5.1973 · Python 5,20 mA · Abstand 2.70e-3 (Schranke 5.00e-3 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.0026999999999999247
+  },
+  {
+   "gut": true,
+   "text": "I_B: Seite 17.006 · Python 17,0 µA · Abstand 6.00e-3 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.006000000000000227
+  },
+  {
+   "gut": true,
+   "text": "β = 305.62 gegen „≈ 305\" im Manuskript (Schranke ±2)",
+   "zahl": 305.62
+  },
+  {
+   "gut": true,
+   "text": "Fixpunktiteration sichtbar: 10 Schritte",
+   "zahl": 10
+  },
+  {
+   "gut": true,
+   "text": "n: Seite 1.004 · Python 1.004 · Abstand 0.00e+0 (Schranke 5.00e-4 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "I_S (Mantisse): Seite 5.2604 · Python 5.260e-14 · Abstand 4.00e-4 (Schranke 5.00e-4 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.00039999999999995595
+  },
+  {
+   "gut": true,
+   "text": "V_A: Seite 146.05 · Python 146.0 · Abstand 5.00e-2 (Schranke 5.00e-2 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.05000000000001137
+  },
+  {
+   "gut": true,
+   "text": "β_F: Seite 271.8 · Python 272 · Abstand 2.00e-1 (Schranke 5.00e-1 = halbe letzte gedruckte Stelle)",
+   "zahl": 0.19999999999998863
+  },
+  {
+   "gut": true,
+   "text": "h_FE-Max: Seite 275 · Python 275 · Abstand 0.00e+0 (Schranke 5.00e-1 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet h11e",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet h12e",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet h21e",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet h22e",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet vbe",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet vce",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet ib",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Ersatzschaltbild beschriftet ic",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "kein π-Modell im rechnenden Teil (gefunden: nichts)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "alle vier Elemente tragen ihren gerechneten Wert: 1.453 kΩ · -4.994e-7 · 279.84 · 30.29 kΩ",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter IS benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter NF benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter BF benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter VAF benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter VAR benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter IKF benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter RB benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter ISE benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter NE benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter BR benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter IKR benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter ISC benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter NC benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter RE benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter CJE benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter CJC benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter TF benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "SPICE-Parameter TR benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Parameter ausdrücklich als nicht bestimmbar ausgewiesen: 7 (Schranke ≥ 6)",
+   "zahl": 7
+  },
+  {
+   "gut": true,
+   "text": "Netzliste Fall 1 wörtlich gleich (5 Zeilen)",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Netzliste Fall 2 gleich bis auf die zwei gerechneten Anfangswerte (9 Zeilen)",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Anfangswerte der Koppelkondensatoren: Abstand 1.00e-12 V (Schranke 1e-9 = die Abbruchschranke tol_u seines Newton)",
+   "zahl": 1.000088900582341e-12
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 U_BE: Seite 0.66417694067 · Python 0.66417694067 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 U_BE,eff: Seite 0.66372352023 · Python 0.66372352023 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 U_CE: Seite 5.6514887864 · Python 5.6514887864 · Abstand 0.00e+0 (Schranke 5.00e-11 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 I_B: Seite 0.00002411810829 · Python 2.411810829e-05 · Abstand 0.00e+0 (Schranke 5.00e-14 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 I_C: Seite 0.0063485055621 · Python 0.0063485055621 · Abstand 0.00e+0 (Schranke 5.00e-14 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 I_E: Seite 0.0063726236704 · Python 0.0063726236704 · Abstand 0.00e+0 (Schranke 5.00e-14 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 beta: Seite 263.22568444 · Python 263.22568444 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 beta_eff: Seite 253.00178342 · Python 253.00178342 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 P_V: Seite 0.035894526686 · Python 0.035894526686 · Abstand 0.00e+0 (Schranke 5.00e-13 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Fall 1 Newton-Durchgänge: Seite 46 · Python 46",
+   "zahl": 46
+  },
+  {
+   "gut": true,
+   "text": "Empfindlichkeit 1 (V_CE): Seite 5.69349823 · Python 5.69349823 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Empfindlichkeit 2 (V_CE): Seite 5.65124605 · Python 5.65124605 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Empfindlichkeit 3 (V_CE): Seite 5.68384698 · Python 5.68384698 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "V_AB = 200 V: Seite meldet „kein Ergebnis“, Python bricht nach 200 Durchgängen ab",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe U_BE: Seite 0.75216549009 · Python 0.75216549009 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe U_BE,eff: Seite 0.74240792375 · Python 0.74240792375 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe U_CE: Seite 12.491109307 · Python 12.491109307 · Abstand 0.00e+0 (Schranke 5.00e-10 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe I_B: Seite 0.00065050442305 · Python 0.00065050442305 · Abstand 0.00e+0 (Schranke 5.00e-15 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe I_C: Seite 0.12508889444 · Python 0.12508889444 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe beta_eff: Seite 181.12229789 · Python 181.12229789 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Gegenprobe gegen kap08_rechnung.py (von Hand aufgestelltes System): größte relative Abweichung 1.2e-6 (Schranke 1e-5, der Rest ist GMIN — Teil XII, 50.1)",
+   "zahl": 0.0000012
+  },
+  {
+   "gut": true,
+   "text": "Tangenten g11: Seite 0.24459278629 · Python 0.24459278629 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Tangenten g12: Seite 0.000048003282385 · Python 4.8003282385e-05 · Abstand 0.00e+0 (Schranke 5.00e-15 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Tangenten g21: Seite 0.00092994036777 · Python 0.00092994036777 · Abstand 0.00e+0 (Schranke 5.00e-15 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Tangenten g22: Seite 1.742360424e-8 · Python 1.742360424e-08 · Abstand 0.00e+0 (Schranke 5.00e-13 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Tangenten R_ac: Seite 909.09090909 · Python 909.09090909 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Tangenten A_v klein: Seite -209.41278584 · Python -209.41278584 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "A_v klein: Seite -209.41278584 · Python -209.41278584 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "A_v gross: Seite 209.51323724 · Python 209.51323724 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "A_v gross steht invertierend da: -209.51323724",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Unterschied: Seite 0.047968 · Python 0.047968133434 · Abstand 1.33e-7 (Schranke 5.00e-7 = halbe letzte gedruckte Stelle)",
+   "zahl": 1.3343400000198624e-7
+  },
+  {
+   "gut": true,
+   "text": "Hub oben: Seite 1.0030436861 · Python 1.0030436861 · Abstand 0.00e+0 (Schranke 5.00e-11 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Hub unten: Seite 1.092042847 · Python 1.092042847 · Abstand 0.00e+0 (Schranke 5.00e-10 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Unsymmetrie: Seite -8.495989 · Python -8.4959890231 · Abstand 2.31e-8 (Schranke 5.00e-7 = halbe letzte gedruckte Stelle)",
+   "zahl": 2.310000013494573e-8
+  },
+  {
+   "gut": true,
+   "text": "Verschiebung: Seite -0.020524194 · Python -0.020524194 · Abstand 0.00e+0 (Schranke 5.00e-10 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Drift: Seite 0.0011174124 · Python 0.0011174124 · Abstand 0.00e+0 (Schranke 5.00e-11 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "die Verzerrung ist sichtbar: Unsymmetrie -8.495989 % (eine lineare Stufe hätte 0,00 %)",
+   "zahl": -8.495989
+  },
+  {
+   "gut": true,
+   "text": "Netzliste der Brücke wörtlich aus bruecke.netz (15 Zeilen)",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "vier Diodenzeilen in der Netzliste: 4",
+   "zahl": 4
+  },
+  {
+   "gut": true,
+   "text": "Brücke u_C Mittelwert: Seite 20.766126381 · Python 20.766126381 · Abstand 0.00e+0 (Schranke 5.00e-10 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke u_C größte: Seite 21.359706666 · Python 21.359706666 · Abstand 0.00e+0 (Schranke 5.00e-10 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke u_C kleinste: Seite 20.16957023 · Python 20.16957023 · Abstand 0.00e+0 (Schranke 5.00e-9 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Brummspannung: Seite 1.1901364365 · Python 1.1901364365 · Abstand 0.00e+0 (Schranke 5.00e-11 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Brummspannung / u_C: Seite 5.731143183 · Python 5.731143183 · Abstand 0.00e+0 (Schranke 5.00e-10 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Laststrom Mittelwert: Seite 0.20766126381 · Python 0.20766126381 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Diodenstrom D1 Spitze: Seite 0.67692015332 · Python 0.67692015332 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Quellstrom Spitze: Seite 0.67692018425 · Python 0.67692018425 · Abstand 0.00e+0 (Schranke 5.00e-12 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Verlust bis zum Kondensator: Seite 8.6402933337 · Python 8.6402933337 · Abstand 0.00e+0 (Schranke 5.00e-11 = halbe letzte gedruckte Stelle)",
+   "zahl": 0
+  },
+  {
+   "gut": true,
+   "text": "Brücke Zeitschritte: 20000",
+   "zahl": 20000
+  },
+  {
+   "gut": true,
+   "text": "Brücke größte Newton-Durchgänge: Seite 200 · Python 200",
+   "zahl": 200
+  },
+  {
+   "gut": true,
+   "text": "Brücke Newton im Mittel: Seite 3.7078 · Python 3.7081 · relativ 8.1e-5 (Schranke 1e-3, ausdrücklich gröber als die gedruckte Stelle — Begründung steht auf der Seite)",
+   "zahl": 0.00008090396699111268
+  },
+  {
+   "gut": true,
+   "text": "die Seite benennt den Unterschied in der Newton-Zahl selbst",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "die Seite weist die 11 Newton-Abbrüche aus, statt sie zu verschweigen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Brücke gegen seinen Bericht bericht_bruecke_rc.txt (anderes Programm, Handauflösung statt Gauß): größte relative Abweichung 1.5e-7 (Schranke 1e-6 = die vierte gedruckte Nachkommastelle)",
+   "zahl": 1.5e-7
+  },
+  {
+   "gut": true,
+   "text": "eine Netzliste mit R, V, D, C, L und T läuft durch · Buchstaben RQVDCLT · 4 Diodenkarten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "alle Bauteilbuchstaben seines Lösers übertragen: C,D,L,Q,R,T,V (Soll C,D,L,Q,R,T,V)",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Diodenkarte 1N4148 unverändert aus bruecke_kern.py: IS=2.52e-9 n=1.752 VT=0.025852",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Diodenkarte 1N4007 unverändert aus bruecke_kern.py: IS=1.411e-8 n=1.984 VT=0.025852",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Diodenkarte 1N5408 unverändert aus bruecke_kern.py: IS=1.411e-8 n=1.984 VT=0.025852",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Diodenkarte Schottky 1N5819 unverändert aus bruecke_kern.py: IS=0.0000317 n=1.373 VT=0.025852",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "genau die vier Karten seines Bestandes: 4",
+   "zahl": 4
+  },
+  {
+   "gut": true,
+   "text": "die Modellkarte steht als .MODEL-Zeile da",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt IS=4.765E-14",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt NF=1.004",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt BF=253.2",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt VAF=126.6",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt VAR=1.39E3",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt IKF=4.05",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Modellkarte trägt RB=18.8",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Klasse „gemessen“: 3 Zeilen (Schranke ≥ 3)",
+   "zahl": 3
+  },
+  {
+   "gut": true,
+   "text": "Klasse „gesetzt, weil nicht bestimmbar“: 3 Zeilen (Soll 3 — I_KF, R_B,int, V_AB)",
+   "zahl": 3
+  },
+  {
+   "gut": true,
+   "text": "Klasse „mit diesem Gerät nicht messbar“: 7 Zeilen (Schranke ≥ 6)",
+   "zahl": 7
+  },
+  {
+   "gut": true,
+   "text": "die fehlende obere Grenzfrequenz steht im Text UND an den gerechneten Zahlen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "die Thermospannung ist ausdrücklich als Annahme benannt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Liste „Was offen ist“ im Reiter: 8 Einträge (Schranke ≥ 5)",
+   "zahl": 8
+  },
+  {
+   "gut": true,
+   "text": "Verweis auf Teil XII des Grundlagenprojekts im Reiter",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Schieber R_C wirkt: V_CE 5.6514887864 → -0.18766820992",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "außerhalb der Voreinstellung bleibt die Spalte „sein Löser“ leer statt zu behaupten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Knopf „Voreinstellung“ stellt zurück: 5.6514887864",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bild „platine“ eingebettet und geladen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bild „skizze“ eingebettet und geladen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bild „ops“ eingebettet und geladen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bild „cpu“ eingebettet und geladen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "das Foto der Platine steht an zwei Stellen (Start und Gerät): 2",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Daten-Adressen der Art data:image/jpeg;base64,: 3",
+   "zahl": 3
+  },
+  {
+   "gut": true,
+   "text": "Daten-Adressen der Art data:image/png;base64,: 27",
+   "zahl": 27
+  },
+  {
+   "gut": true,
+   "text": "dieselbe Bilddatei zweimal angezeigt, einmal gespeichert: 1 geteilte Adresse",
+   "zahl": 1
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „ESP32“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „Prüfling“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „steckbar“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „Rc1“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „Rb2“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „AD7682“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „DAC8565“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „Fragezeichen“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildunterschrift benennt „SPI“",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "erst das Gerät, dann die Umrechnung und die Messreihen",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "die erste Seite trägt den Bogen in der Überschrift",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Stationen des Weges auf der ersten Seite: 7",
+   "zahl": 7
+  },
+  {
+   "gut": true,
+   "text": "Sprungmarken auf die Reiter: 8",
+   "zahl": 8
+  },
+  {
+   "gut": true,
+   "text": "die Manuskripte sind als Hintergrund und Lernapparat eingeführt",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Namensliste aus pruefe_privat.json geladen: 7 Muster (sie steht nicht in diesem Prüfer und geht nicht mit hinaus)",
+   "zahl": 7
+  },
+  {
+   "gut": true,
+   "text": "Rechnerpfad eines Arbeitsbereichs: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Rechnerpfad C:\\: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Heimnetzadresse: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Tailscale-Adresse: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Kennwort im Klartext: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Befundliste: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Reiter „Befunde\": nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 1: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 2: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 3: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 4: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 5: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 6: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Firmen- oder Personenname Nr. 7: nicht enthalten",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Kopfzeile nennt die Fassung 2.2",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Kopfzeile nennt das Datum",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Kopfzeile trägt die Namensnennung",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Verweis auf das Grundlagenprojekt vorhanden",
+   "zahl": null
+  },
+  {
+   "gut": true,
+   "text": "Bildschirmfotos abgelegt: 17",
+   "zahl": 17
+  },
+  {
+   "gut": true,
+   "text": "waagerechter Überlauf bei 400 px: 0 px (Schranke 2)",
+   "zahl": 0
+  }
+ ]
+}
