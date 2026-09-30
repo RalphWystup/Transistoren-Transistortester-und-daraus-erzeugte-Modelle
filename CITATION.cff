@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Wenn Sie diese Arbeit verwenden, zitieren Sie sie bitte wie folgt."
+title: "Transistoren, der Transistortester und die daraus erzeugten Modelle"
+abstract: "Von der Messung zum eigenen Berechnungsverfahren: selbst gemessene Kennlinien, daraus selbst ermittelte Gummel-Poon-Parameter, und ein selbst geschriebener Löser, der damit Arbeitspunkt und Verstärkung einer ganzen Schaltung rechnet."
+type: software
+authors:
+  - family-names: Wystup
+    given-names: Ralph
+    name-particle: ""
+    name-suffix: "Prof. Dr.-Ing., M.Sc."
+license: MIT
+url: "https://ralphwystup.github.io/Transistoren-Transistortester-und-daraus-erzeugte-Modelle/"
+repository-code: "https://github.com/RalphWystup/Transistoren-Transistortester-und-daraus-erzeugte-Modelle"
+date-released: "2026-09-30"
+keywords:
+  - Transistor
+  - Gummel-Poon
+  - SPICE-Parameter
+  - Kennlinienfeld
+  - h-Parameter
+  - Arbeitspunkt
